@@ -274,7 +274,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "posts"
+      layout: "post"
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
